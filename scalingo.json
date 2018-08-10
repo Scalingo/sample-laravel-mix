@@ -1,0 +1,12 @@
+{
+  "name": "Sample PHP/Laravel Mix",
+  "description": "Sample PHP web application using the Laravel Mix framework",
+  "logo": "https://scalingo.com/logo.svg",
+  "repository": "https://github.com/Scalingo/sample-laravel-mix",
+  "website": "https://sample-laravel-mix.scalingo.io",
+  "env": {
+    "APP_KEY": {
+      "generator": "secret"
+    }
+  }
+}
