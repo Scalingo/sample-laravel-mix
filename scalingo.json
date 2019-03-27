@@ -6,7 +6,7 @@
   "website": "https://sample-laravel-mix.scalingo.io",
   "env": {
     "APP_KEY": {
-      "generator": "secret"
+      "description": "Mandatory 32 characters long secret"
     }
   }
 }
